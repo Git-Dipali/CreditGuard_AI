@@ -84,7 +84,7 @@ CreditGuard-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CreditGuard-AI.git
+git clone https://github.com/sonaliyadav3131-cmyk/CreditGuard-AI.git
 ```
 
 ### 2. Open the project folder
