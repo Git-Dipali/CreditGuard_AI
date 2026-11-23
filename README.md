@@ -1,4 +1,5 @@
 # 🛡️ CreditGuard AI – Credit Card Fraud Detection
+*live demo*"https://creditguardai-7vzmxlywfswjl5ptem9x9e.streamlit.app/"
 
 An intelligent Machine Learning-based system that detects potentially fraudulent credit card transactions using Python and Streamlit.
 
@@ -144,3 +145,4 @@ Machine Learning Project | CreditGuard AI
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!﻿
+
