@@ -138,7 +138,7 @@ The project evaluates model performance using:
 
 ## 👩‍💻 Author
 
-**Sonali Yadav**
+**Dipali Yadav**
 
 Machine Learning Project | CreditGuard AI
 
